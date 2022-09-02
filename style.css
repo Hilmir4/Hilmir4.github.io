@@ -1,10 +1,46 @@
-#center {
+.text {
     text-align: center;
+    color: white;
+    
 }
 
 img {
     display: block;
     margin-left: auto;
-    margin-right: auto;
-    
-  }
+    margin-right: 0%;
+}
+
+
+#name {
+    font-size: 100px;
+}
+
+#prename {
+    position: relative;
+    top: 83px;
+    font-size: 50px;
+}
+
+body {
+    background-image: url("pics/background.jpg");
+    background-size: cover;
+}
+
+/* links */
+
+#linktext {
+    font-size: 30px;
+}
+
+a:link {
+    color: white;
+}
+  
+a:hover {
+    color: rgb(219, 214, 255);
+}
+  
+a:active {
+    color: rgb(127, 115, 216);
+}
+
