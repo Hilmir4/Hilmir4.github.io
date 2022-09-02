@@ -37,10 +37,10 @@ a:link {
 }
   
 a:hover {
-    color: rgb(219, 214, 255);
+    color: rgb(179, 179, 179);
 }
   
 a:active {
-    color: rgb(127, 115, 216);
+    color: rgb(131, 131, 131);
 }
 
